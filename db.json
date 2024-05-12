@@ -28,15 +28,6 @@
       "status": "Disponível"
     },
     {
-      "id": "4",
-      "tipo": "Impressora",
-      "marca": "Canon",
-      "modelo": "PIXMA TS6320",
-      "numero_serie": "TS6320-234567",
-      "data_aquisicao": "2021-11-30",
-      "status": "Disponível"
-    },
-    {
       "id": "5",
       "tipo": "Switch",
       "marca": "Cisco",
@@ -73,7 +64,7 @@
       "status": "Em uso"
     },
     {
-      "id": 0,
+      "id": "0",
       "tipo": "Menhegas",
       "marca": "Onto",
       "modelo": "999",
@@ -81,6 +72,27 @@
       "data_aquisicao": "1864-06-22",
       "status": true,
       "birth_date": "22-06-1864"
+    },
+    {
+      "id": "a39c",
+      "tipo": "",
+      "marca": "",
+      "modelo": "",
+      "numero_serie": "",
+      "data_aquisicao": "11-05-2024",
+      "status": true,
+      "Disponivel": false,
+      "birth_date": "11-05-2024"
+    },
+    {
+      "id": "a244",
+      "tipo": "",
+      "marca": "",
+      "modelo": "",
+      "numero_serie": "",
+      "data_aquisicao": "",
+      "status": true,
+      "birth_date": "undefined-undefined-"
     }
   ]
 }
